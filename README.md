@@ -6,7 +6,7 @@
 
 📬 To contact me ... violently tear a hole in your wall because that is where I reside
 
-🔭 I’m currently working on ... as of this moment, [learning] a thing called A-Frame
+🔭 I’m currently working on ... learning how to do some hardware
 
 🌜 You can expect a new project once every blue moon 🌜
 
