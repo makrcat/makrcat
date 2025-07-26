@@ -10,16 +10,25 @@
 
 🌜 You can expect a new project once every blue moon 🌜
 
+<img alt="followers" src="https://img.shields.io/github/followers/makrcat?label=Followers&style=social">
+
+<img src="https://img.shields.io/github/stars/makrcat?label=Stars" alt="stars">
+
 ![](https://img.shields.io/badge/Discord-dycatastrophe-%23f3edff?style=for-the-badge)
 
+<!--//[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=makrcat&repo=sciolyskillz)](https://github.com/makrcat/sciolyskillz)-->
 
-## Github stats ⊙︿⊙
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=makrcat)
+## Github stats ⊙︿⊙ 
+
+🧸 widget time!!!
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=makrcat) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=makrcat&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" />
+
+[<img src="https://github-profile-trophy.vercel.app/?username=makrcat&theme=light" />](https://github-profile-trophy.vercel.app/?username=makrcat&theme=light)
 
 ## Gotta collect
 
-typescript is wonderful
 | Dev type       | language           | related/library       |
 |----------------|------------------|-----------------------|
 | Web dev!       | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  |
