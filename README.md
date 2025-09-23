@@ -1,27 +1,25 @@
-## makrcat 
+![space](banner.png)
 
-🌱 why hello there
+Hi, I go by makrcat on here!
 
-💬 Ask me about ... space B)
+I'm a 16-year old dev living on the US west coast. I like to code projects once in a blue moon 🌜
 
-📬 To contact me ... violently tear a hole in your wall because that is where I reside
+---
 
-🔭 I’m currently working on ... learning how to do some hardware
+📬 To contact me .. I'm in your walls
 
-🌜 You can expect a new project once every blue moon 🌜
-
-<img alt="followers" src="https://img.shields.io/github/followers/makrcat?label=Followers&style=social">
-
-<img src="https://img.shields.io/github/stars/makrcat?label=Stars" alt="stars">
+🔭 I’m currently working on learning robotics & hardware!
 
 ![](https://img.shields.io/badge/Discord-dycatastrophe-%23f3edff?style=for-the-badge)
 
-<!--//[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=makrcat&repo=sciolyskillz)](https://github.com/makrcat/sciolyskillz)-->
+<!--
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=makrcat&repo=balls)](https://github.com/makrcat/balls)
+-->
 
 
 ## Github stats ⊙︿⊙ 
 
-🧸 widget time!!!
+it's widget time!!!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=makrcat) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=makrcat&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" />
 
