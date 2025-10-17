@@ -1,8 +1,7 @@
 ![space](banner.png)
 
 Hi, I go by makrcat on here!
-
-I'm a 16-year old dev living on the US west coast. I like to code projects once in a blue moon 🌜
+I'm some teen kid living on the US west coast. I code projects once in a blue moon 🌜
 
 ---
 
