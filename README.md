@@ -6,9 +6,9 @@ I'm some teen kid living on the US west coast. I code projects once in a blue mo
 
 ---
 
-📬 To contact me .. I'm in your walls
+📬 You probably won't need to contact me, but `sparkly.anaconda305@aleeas.com`
 
-🔭 I’m currently working on learning robotics & hardware!
+🔭 I’m currently trying to learn CAD
 
 ![](https://img.shields.io/badge/Discord-dycatastrophe-%23f3edff?style=for-the-badge)
 
