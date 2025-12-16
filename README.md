@@ -1,10 +1,7 @@
 ![space](banner.png)
 
-Hi, I go by makrcat on here!
-
-I'm some teen kid living on the US west coast. I code projects once in a blue moon 🌜
-
 ---
+🌜 hilo
 
 📬 You probably won't need to contact me, but `sparkly.anaconda305@aleeas.com`
 
