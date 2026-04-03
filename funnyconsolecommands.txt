@@ -1,0 +1,11 @@
+- cowsay
+- fortune
+- cmatrix
+- sl
+- aafire but it's glitchy asf
+- toilet (ascii art banners)
+- asciiquarium
+- lolcat
+- boxes
+- termtracker (tracking satellites)
+- neofetch (the thing arch linux users pose in front of)
