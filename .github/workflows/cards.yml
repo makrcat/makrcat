@@ -1,7 +1,6 @@
 name: Update README cards
 
 on:
-  # Runs on a schedule - once per week on Monday at 05:00 UTC
   schedule:
     - cron: '0 10 1 * *'
   workflow_dispatch:
