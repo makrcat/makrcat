@@ -6,13 +6,11 @@
 
 🔭 • Web experiments, games, functional programs
 
-🌞 • U.S. west coast! Go Niners!
-
-📬 • You can contact me here, with a ~2 day response time
-
-![discord usr dycatastrophe](https://img.shields.io/badge/Discord-dycatastrophe-%23f3edff?style=for-the-badge)
+🌞 • U.S. West Coast!
 
 ✍️ • Currently learning.. hardware? 
+
+![discord usr dycatastrophe](https://img.shields.io/badge/Discord-dycatastrophe-%23f3edff?style=for-the-badge)
 
 ## Stack
 
