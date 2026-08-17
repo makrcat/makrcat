@@ -10,8 +10,6 @@
 
 ✍️ • Currently learning: micropython 
 
-![discord usr dycatastrophe](https://img.shields.io/badge/Discord-dycatastrophe-%23f3edff?style=for-the-badge)
-
 ## Stack
 
 ### w<sub> o w</sub>﹗<sup>L a </sup> n <sub>g u</sub> a <sup> g e</sup> s
