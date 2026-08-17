@@ -41,3 +41,7 @@
 
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=makrcat&theme=material-palenight&locale=en" alt="mystreak" hspace="0" vspace="0"/>-->
+
+## Outlinking
+
+![discord usr dyscatastrophe](https://img.shields.io/badge/Discord-dyscatastrophe-%23f3edff?style=for-the-badge)
