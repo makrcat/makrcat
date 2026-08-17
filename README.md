@@ -8,7 +8,7 @@
 
 🌞 • U.S. West Coast!
 
-✍️ • Currently learning.. hardware? 
+✍️ • Currently learning: micropython 
 
 ![discord usr dycatastrophe](https://img.shields.io/badge/Discord-dycatastrophe-%23f3edff?style=for-the-badge)
 
