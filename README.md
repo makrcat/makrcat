@@ -4,7 +4,9 @@
 
 Hi, I'm makrcat and I code sometimes. 
 
-I like making visual simulation programs and games, and I webdev occasionally. Also, I like messing around with microelectronics. :3
+I like making visual functional programs and games, and I webdev.
+
+Also, I like messing around with microelectronics. :3
 
 <img src="./cards/top-langs.svg"> 
 
